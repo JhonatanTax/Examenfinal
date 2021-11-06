@@ -9,11 +9,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "index.html"
+    "start": "https://github.com/JhonatanTax/Examenfinal.git"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PascualMDZ/pscportafoliodigital.git"
+    "url": "https://github.com/JhonatanTax/Examenfinal.git"
   },
   "keywords": [],
   "author": "",
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/PascualMDZ/pscportafoliodigital/issues"
   },
-  "homepage": "https://github.com/PascualMDZ/pscportafoliodigital#readme"
+  "homepage": "https://jhonatantax.github.io/Examenfinal/"
 }
